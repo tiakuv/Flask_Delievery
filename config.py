@@ -1,0 +1,4 @@
+CSRF_ENABLED = True
+SECRET_KEY = "savioer-sd"
+SQLALCHEMY_DATABASE_URI = 'sqlite:///delievery.db'
+SQLALCHEMY_TRACK_MODIFICATIONS = False
